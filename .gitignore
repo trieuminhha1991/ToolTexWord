@@ -2,6 +2,8 @@
 /QuanLyTex/obj/*
 /CreatLicensing/obj/*
 /CreatLicense/obj/*
+/appdll/obj/*
+/appdll/obj/*
 /.vs
 /.localhistory
 *.exe
