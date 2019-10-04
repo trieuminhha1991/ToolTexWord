@@ -1,8 +1,8 @@
 /QuanLyTex/bin/*
 /QuanLyTex/obj/*
-/CreatLicensing/obj/*
+/CreatLicensing/bin/*
 /CreatLicense/obj/*
-/appdll/obj/*
+/appdll/bin/*
 /appdll/obj/*
 /.vs
 /.localhistory
