@@ -22,3 +22,9 @@ E:\Project\ToolTexWord\appdll\obj\Debug\appdll.csprojAssemblyReference.cache
 E:\Project\ToolTexWord\appdll\obj\Debug\appdll.csproj.CoreCompileInputs.cache
 E:\Project\ToolTexWord\appdll\obj\Debug\appdll.dll
 E:\Project\ToolTexWord\appdll\obj\Debug\appdll.pdb
+D:\Project\ToolTexWord\appdll\bin\Debug\appdll.dll
+D:\Project\ToolTexWord\appdll\bin\Debug\appdll.pdb
+D:\Project\ToolTexWord\appdll\obj\Debug\appdll.csprojAssemblyReference.cache
+D:\Project\ToolTexWord\appdll\obj\Debug\appdll.csproj.CoreCompileInputs.cache
+D:\Project\ToolTexWord\appdll\obj\Debug\appdll.dll
+D:\Project\ToolTexWord\appdll\obj\Debug\appdll.pdb
