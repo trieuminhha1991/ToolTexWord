@@ -62,7 +62,7 @@
                 </ListBox>
             </StackPanel>
         </GroupBox>
-        <GroupBox Grid.Column="0" Header="Tùy chọn lọc" Margin="5,0.6,3.2,164.6" Control.Background="#FFBBDCC1" Grid.Row="1" Grid.RowSpan="2">
+        <GroupBox Grid.Column="0" Header="Tùy chọn de" Margin="5,0.6,3.2,164.6" Control.Background="#FFBBDCC1" Grid.Row="1" Grid.RowSpan="2">
             <StackPanel Margin="0,0,0,-6">
                 <TextBlock>
                          <TextBox Width="50" Background="#FFD9F13F"> Số câu</TextBox> 

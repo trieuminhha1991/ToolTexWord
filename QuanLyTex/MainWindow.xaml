@@ -60,7 +60,7 @@
 					</xctk:MaterialTabItem>
 				</xctk:MaterialTabControl>
 			</xctk:MaterialTabItem>
-			<xctk:MaterialTabItem Header="Ngân hàng Tex">
+			<xctk:MaterialTabItem Header="Sử dụng Ngân hàng Tex">
 				<xctk:MaterialTabControl>
 					<xctk:MaterialTabItem  Header="Quản lí ngân hàng"  MinWidth="150" Margin="0,0,0,-0.2">
 						<xctk:MaterialTabItem.Background>
@@ -99,7 +99,7 @@
 								<GradientStop Color="#FFEAF484" Offset="0.337"/>
 							</LinearGradientBrush>
 						</xctk:MaterialTabItem.Background>
-						<xctk:MaterialButton MaterialAccentBrush="#FFA7F3DF"  Content="Sẽ ra mắt trong phiên bản ProV1" FontSize="30" Margin="14,0,-0.4,438.2"/>
+						<local:UserControl3B Margin="0,0,205.8,0"/>
 					</xctk:MaterialTabItem>
 					<xctk:MaterialTabItem  Header="Chọn câu cụ thể từng file"  Width="177" Margin="0,0,0,-0.2">
 						<xctk:MaterialTabItem.Background>
@@ -108,7 +108,7 @@
 								<GradientStop Color="#FF9BF484" Offset="0.337"/>
 							</LinearGradientBrush>
 						</xctk:MaterialTabItem.Background>
-						<xctk:MaterialButton MaterialAccentBrush="#FFA7F3DF"  Content="Sẽ ra mắt trong phiên bản ProV1" FontSize="30" Margin="14,0,-0.4,438.2"/>
+						<local:UserControl3A Margin="0,0,205.8,0"/>
 					</xctk:MaterialTabItem>
 					<xctk:MaterialTabItem  Header="Tùy chọn giao diện"  Width="150">
 						<xctk:MaterialTabItem.Background>
@@ -209,14 +209,11 @@
 					</xctk:MaterialTabItem>
 				</xctk:MaterialTabControl>
 			</xctk:MaterialTabItem>
-			<xctk:MaterialTabItem Header="Ngân hàng word">
+			<xctk:MaterialTabItem Header="Sử Dụng Ngân hàng word">
 
 			</xctk:MaterialTabItem>
 			<xctk:MaterialTabItem  Header="Công cụ hay dùng cho word">
 				<local:UserControl2 Margin="0,0,205.8,0"/>
-			</xctk:MaterialTabItem>
-			<xctk:MaterialTabItem  Header="Chấm trắc nghiệm.">
-				<xctk:MaterialButton MaterialAccentBrush="#FFA7F3DF"  Content="Đang phát triển, dự kiến ra mắt trong phiên bản ProV2" FontSize="30" Margin="14,0,-0.4,438.2"/>
 			</xctk:MaterialTabItem>
 		</xctk:MaterialTabControl>
 	</Grid>
